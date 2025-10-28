@@ -4,6 +4,7 @@ class Program
 {
     static void Main()
     {
+        Console.WriteLine("Hello, World!");
         Console.WriteLine("Bem vindo à loja!");
 
         Console.WriteLine($"Digite seu saldo");
@@ -59,4 +60,5 @@ class Program
             }
         }
     }
+
 }
